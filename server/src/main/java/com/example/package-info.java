@@ -1,5 +1,5 @@
 /**
- * this is a package
+ * this is a package.
  */
 package com.example;
 
